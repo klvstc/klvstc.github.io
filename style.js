@@ -25,7 +25,7 @@ for(var i=0;i<6;i++)
 		 naz.textContent="PLAY AGAIN!!"}
 	else
 		{this.style.background="white";
-		 na.textContent="IT'S WRONG TRY AGAIN";}
+		 na.textContent="WRONG";}
 	})}
 
 function colorRandomize()
