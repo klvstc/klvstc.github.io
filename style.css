@@ -1,0 +1,66 @@
+.main{
+	width:50%;
+	margin:0 auto;}
+#na1{
+	margin:32%;
+}
+
+.square{
+	width: 30%;
+	padding-bottom: 30%;
+	margin: 1.66%; 
+	background:black;
+	float: left;
+}
+
+#xy{
+	background: url('https://images.hdqwalls.com/download/multicolor-abstract-4k-4h-2560x1440.jpg') no-repeat center center; 
+    background-size: cover;
+}
+
+.ab{
+	text-align: center;
+	color:white;
+}
+
+#na{
+	margin-left: 30%;
+}
+#naz{
+	margin-right: 30%;
+}
+.jumbotron
+{
+    background: black;
+    height: 325px;
+    font-family: 'Montserrat', sans-serif;
+}
+.jumbotron .container h1{
+    font-size: 34px;}
+
+#link{
+  color: white;
+}
+
+@media (max-width: 767px) {
+  .jumbotron {
+    height: 200px;}
+  .jumbotron .container h1{
+    font-size: 25px;}
+  #na{
+	margin-left: 15%;}
+  #naz{
+	margin-right: 15%;}
+  .main{
+	width:90%;}
+    .jumbotron .container h2{
+    font-size: 35px;}
+  .jumbotron .container p {
+    font-size: 15px;}
+  .navbar span{
+	font-size:14px;}
+   #na1{
+	margin:28%;}
+  .navbar a{
+	font-size:14px;}
+}
