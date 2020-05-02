@@ -44,9 +44,9 @@
 
 @media (max-width: 992px) {
   .jumbotron {
-    height: 400px;}
+    height: 300px;}
   .jumbotron .container h1{
-    font-size: 30px;}
+    font-size: 28px;}
   #na{
 	margin-left: 15%;}
   #naz{
@@ -54,13 +54,13 @@
   .main{
 	width:90%;}
     .jumbotron .container h2{
-    font-size: 34px;}
+    font-size: 30px;}
   .jumbotron .container p {
     font-size: 16px;}
   .navbar span{
-	font-size:14px;}
+	font-size:10px;}
    #na1{
-	margin:24%;}
+	margin:17%;}
   .navbar a{
-	font-size:14px;}
+	font-size:10px;}
 }
