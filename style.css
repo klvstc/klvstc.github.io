@@ -13,6 +13,10 @@
 	float: left;
 }
 
+.up{
+width:100%;
+}
+
 #xy{
 	background: url('https://images.hdqwalls.com/download/multicolor-abstract-4k-4h-2560x1440.jpg') no-repeat center center; 
     background-size: cover;
