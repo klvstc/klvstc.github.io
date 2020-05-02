@@ -42,7 +42,7 @@
   color: white;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
   .jumbotron {
     height: 200px;}
   .jumbotron .container h1{
