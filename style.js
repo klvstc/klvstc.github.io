@@ -9,7 +9,7 @@ colorRandomize();
 
 naz.addEventListener("click",function(){
 	colorRandomize();
-	na.textContent="CLICK ON ANY SQUARE!!";
+	na.textContent="CLICK ON SQUARE";
 	if(naz.textContent==="PLAY AGAIN!!")
 		{naz.textContent="NEW COLORS";}
 })
