@@ -4,7 +4,9 @@
 #na1{
 	margin:32%;
 }
-
+body {
+  font-family: 'Baloo Bahina 2', cursive;
+}
 .square{
 	width: 30%;
 	padding-bottom: 30%;
